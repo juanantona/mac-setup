@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# UNIX ALIASES
+alias cl='clear'
+
+# GIT ALIASES
+alias gpom='git push origin master'
+
+# DOCKER ALIASES
+# based on: https://hackernoon.com/handy-docker-aliases-4bd85089a3b8
+
+alias dk='docker'
+alias dkl='docker logs'
+alias dklf='docker logs -f'
+alias dkps='docker ps --all --format "table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Status}}"'
+
+# K8S ALIASES
+alias k='kubectl'
+alias kgp='kubectl get pods'
