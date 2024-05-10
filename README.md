@@ -1,4 +1,20 @@
+# Juanan’s mac setup
+
+- [Step zero](#step-zero)
+
+## Step zero
+
+**On a new machine or fresh macOS install:** before you can do much on the command line (like using Git), Xcode Command Line Tools need to be installed and the license agreed to.
+
+1. Open Applications > Utilites > Terminal
+2. Install Xcode Command Line Tools `xcode-select --install`
+3. Click install, agree to license
+
+
 # mac-setup
+
+https://github.com/Homebrew/homebrew-cask
+
 
 - [Chrome](https://www.google.com/chrome/)
 
